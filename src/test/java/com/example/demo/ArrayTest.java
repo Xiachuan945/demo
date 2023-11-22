@@ -79,4 +79,12 @@ public class ArrayTest {
 		System.out.println(a);
 		System.out.println(b);
 	}
+	
+	@Test
+	public void listTest2() {
+		int a = 5;
+		int [ ] b = new int[5] ;
+		System.out.println(a);
+		System.out.println(b);
+	}
 }
